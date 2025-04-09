@@ -135,7 +135,7 @@ GOOGLE_API_KEY=your-google-api-key
 ```
 If no key is provided, VLMEvalKit defaults to exact-match scoring (only works for Yes/No or multiple-choice tasks).
 
-### Step 2. Run Evaluation on LEGO-Puzzles 🧱
+### Step 2. Run Evaluation on LEGO-Puzzles
 
 You can now run LEGO-Puzzles by simply setting the dataset name to `LEGO`.
 
