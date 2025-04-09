@@ -7,9 +7,9 @@
 [Yanhong Zeng](https://zengyh1900.github.io)<sup>1†</sup>,
 [Haodong Duan](https://kennymckormick.github.io/)<sup>1†</sup>,
 
-[Yanan Sun](https://scholar.google.com/citations?user=6TA1oPkAAAAJ&hl=zh-CN&oi=ao),
-[Zhening Xing](https://scholar.google.com/citations?hl=zh-CN&user=sVYO0GYAAAAJ),
-[Wenran Liu](https://scholar.google.com/citations?hl=zh-CN&user=fwKOaD8AAAAJ),
+[Yanan Sun](https://scholar.google.com/citations?user=6TA1oPkAAAAJ&hl=zh-CN&oi=ao)<sup>1</sup>,
+[Zhening Xing](https://scholar.google.com/citations?hl=zh-CN&user=sVYO0GYAAAAJ)<sup>1</sup>,
+[Wenran Liu](https://scholar.google.com/citations?hl=zh-CN&user=fwKOaD8AAAAJ)<sup>1</sup>,
 [Kaifeng Lyu](https://kaifeng.ac/cn/)<sup>3‡</sup>,
 [Kai Chen](https://chenkai.site/)<sup>1‡</sup>
 
