@@ -19,6 +19,9 @@
 
 
 <p align="center">
+  <a href='https://tangkexian.github.io/LEGO-Puzzles/'>
+    <img src='https://img.shields.io/badge/Project-Page-Green'>
+  </a>
   <a href='https://arxiv.org/abs/2503.19990'>
     <img src='https://img.shields.io/badge/Paper-2503.19990-brown?style=flat&logo=arXiv' alt='arXiv PDF'>
   </a>
