@@ -25,7 +25,7 @@
   <a href='https://arxiv.org/abs/2503.19990'>
     <img src='https://img.shields.io/badge/Paper-2503.19990-brown?style=flat&logo=arXiv' alt='arXiv PDF'>
   </a>
-  <a href='https://opencompass.openxlab.space/utils/VLMEval/LEGO.tsv'>
+  <a href='https://huggingface.co/datasets/KexianTang/LEGO-Puzzles'>
     <img src='https://img.shields.io/badge/Data-tsv-blue?style=flat&logo=liquibase' alt='data img/data'>
   </a>
 
