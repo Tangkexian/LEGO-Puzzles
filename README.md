@@ -13,7 +13,7 @@
 [Kaifeng Lyu](https://kaifeng.ac/cn/)<sup>3‡</sup>,
 [Kai Chen](https://chenkai.site/)<sup>1‡</sup>
 
-<sub><sup>1</sup>Shanghai AI Laboratory <sup>2</sup>Tongji University <sup>3</sup>Simons Institute, UC Berkeley</sub>  
+<sub><sup>1</sup>Shanghai AI Laboratory <sup>2</sup>Tongji University <sup>3</sup>Tsinghua University</sub>  
 <sub><sup>\*</sup>Equal contribution. <sup>†</sup>Project Leads. <sup>‡</sup>Corresponding Authors.</sub>  
 
 
@@ -108,8 +108,9 @@ We propose **Next-k-Step**, a fine-grained reasoning benchmark that challenges m
 A few representative examples from LEGO-Puzzles are shown below, illustrating the diversity and complexity of the benchmark.
 
 <div align="center">
-  <img src="images/sample1.png" width="48%">
-  <img src="images/sample2.png" width="48%">
+  <img src="images/rotation_case.png" width="100%">
+  <img src="images/multiview_case.png" width="100%">
+  <img src="images/dependency_case.png" width="100%">
 </div>
 
 
