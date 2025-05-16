@@ -121,8 +121,8 @@ We have fully integrated **LEGO-Puzzles** into [VLMEvalKit](https://github.com/o
 ### Step 0. Installation
 
 ```bash
-git clone https://github.com/open-compass/VLMEvalKit.git
-cd VLMEvalKit
+git clone https://github.com/Tangkexian/LEGO-Puzzles.git
+cd LEGO-Puzzles
 pip install -e .
 ```
 ### Step 1. Setup API Keys (Optional)
