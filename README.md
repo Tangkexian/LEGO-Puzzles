@@ -46,7 +46,7 @@ In this work, we introduce **LEGO-Puzzles**, a scalable and systematic benchmark
 
 To comprehensively assess spatial reasoning capabilities, LEGO-Puzzles is structured into three core task categories: **Spatial Understanding**, **Single-Step Sequential Reasoning**, and **Multi-Step Sequential Reasoning**. Each task requires models to understand visual inputs, perform step-by-step logical deduction, and maintain spatial consistency across sequences.
 
-In addition to traditional Visual Question Answering (VQA), LEGO-Puzzles also incorporates **image generation tasks**, assessing whether MLLMs can visually simulate structural transformations and anticipate future assembly states.
+Furthermore, based on LEGO-Puzzzles, we design **image generation tasks** to investigate whether MLLMs can transfer their spatial understanding and reasoning abilities to image generation.
 
 We further introduce **LEGO-Puzzles-Lite**, a distilled subset tailored for human-model comparison, and a fine-grained evaluation suite named **Next-k-Step** to test reasoning scalability under increasing complexity.
 
@@ -89,7 +89,7 @@ We design **5 LEGO-based image generation tasks** testing a model's ability to s
 - 🎯 **Appearance Similarity**
 - 🎯 **Instruction Following**
 
-Only **Gemini-2.0-Flash** and **GPT-4o** show partial success. Open-source models typically fail to produce structurally valid or instruction-aligned images.
+Only **GPT-4o** and **Gemini-2.0-Flash** demonstrate partial success, while open-source models generally fail to produce structurally valid or instruction-aligned images. We evaluate GPT-4o, Gemini-2.0-Flash, GPT-4o* (referring to the version released prior to March 6, 2025), Emu2, GILL, and Anole using a scoring scale from 0 to 3 for both ***Appearance*** and ***Instruction Following*** dimensions.
 
 <div align="center">
   <img src="images/Generation_results.png" width="100%">
